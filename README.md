@@ -8,5 +8,8 @@ Pour installer le package, utilisez npm ou yarn :
 
 ```bash
 npm install draggableCircularMenu
-# ou
+```
+ou
+```terminal
 yarn add draggableCircularMenu
+```
