@@ -49,3 +49,12 @@ export default MyComponent;
   text="€"
 />
 ```
+##Contribuer
+Les contributions sont les bienvenues ! Pour contribuer à ce projet, veuillez :
+
+1. Forker le projet.
+2. Créer une nouvelle branche (git checkout -b feature/AmazingFeature).
+3. Faire vos modifications.
+4. Commiter vos modifications (git commit -m 'Ajouter une fonctionnalité étonnante').
+5. Pousser vers la branche (git push origin feature/AmazingFeature).
+6. Ouvrir une demande de tirage.
